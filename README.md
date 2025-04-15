@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project is a simple Java application that demonstrates the use of Maven for dependency management and build automation.
+This project is a simple Java application that demonstrates the use of Maven for dependency management and build automation. The artifacts in this projects are generated from the VSCode github copilot for personal testing.
 
 ## Table of Contents
 
