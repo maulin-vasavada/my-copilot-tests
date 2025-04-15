@@ -42,6 +42,7 @@ dist/
 build/
 out/
 coverage/
+target/
 
 # Temporary files
 *.swp
